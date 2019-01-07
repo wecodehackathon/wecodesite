@@ -1,0 +1,42 @@
+
+/* ==== overwrite bootstrap standard ==== */
+@import url('overwrite.css');
+@import url('boxtile.css');
+/* ====================================== */
+
+.about-us-content {
+    align-content: center;
+    margin: 5px;
+    min-height: 200px;
+    min-width: 200px;
+    max-width: 300px;
+}
+
+.about-us-name {
+    font-size: 30px;
+    text-align: center;
+}
+
+.about-us-title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.about-us-bio {
+    text-align: justify;
+}
+
+.img-circular{
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    display: block;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
