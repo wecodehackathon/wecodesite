@@ -1782,3 +1782,18 @@ ul.portfolio-area li {
 	}
 
 }
+.social_small {
+	position: relative;
+	padding-top: 50px;
+	left: 100px;
+}
+.footer-logo-container {
+	width: 500px;
+	background-color: whitesmoke;
+}
+.footer-content {
+	float: right;
+}
+.footer-text {
+	float: right;
+}
