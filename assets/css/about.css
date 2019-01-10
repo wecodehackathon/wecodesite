@@ -7,8 +7,9 @@
     align-content: center;
     margin: 5px;
     min-height: 200px;
-    min-width: 200px;
-    max-width: 300px;
+    min-width: 250px;
+    max-width: 400px;
+    display: inline-block
 }
 
 .about-us-name {
@@ -44,6 +45,11 @@
 .logo-content {
     font-size: 20px;
     padding-left: 20px;
+}
+
+.span6{
+    /*text-align: center;*/
+    padding-left: 0px;
 }
 
 
